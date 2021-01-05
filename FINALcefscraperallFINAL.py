@@ -220,5 +220,3 @@ df_merged = reduce(lambda  left,right: pd.merge(left,right,on=['Ticker'], how='o
 
 export_excel = df_merged.to_excel(r'C:/Users/Jacob Steenhuysen/Downloads/CEF Connect Full Scrape.xlsx', sheet_name='Sheet1', index= True)
 
-
-#print(df_merged)
