@@ -9,4 +9,3 @@ Last time I checked there was an issue with beautifulsoup4 working but that may 
 
 
 You're just going to need to set up the directories and then get the tickers you want. Theres about 400 of them on the CEF Connect website.
-
